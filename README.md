@@ -7,3 +7,7 @@ Directories as follows:
 
 1. Send-Email-if-Snapshot-not-Created-for-a-day-using-SES:
 		Look into the Directory for High Level Diagram, Explanation and Implementation.
+
+
+2. Send-Email-if-Snapshot-not-Created-for-a-day-using-SNS:
+		Look into the Directory for High Level Diagram, Explanation and Implementation.
