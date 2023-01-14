@@ -2,6 +2,10 @@
 
 First look at the High Level Architecture Diagram then lambda-funtion.py and then Explanation to Implement.
 
+
+![alt text](https://github.com/nihalshardul/Lambda-Funtions/blob/main/Send-Email-if-Snapshot-not-Created-for-a-day-using-SNS/snapshot-email-using-sns.jpg?raw=true)
+
+
 1. High Level Architecture Diagram (snapshot-count-architecture.jpg):
 	This file shows the Architecture to implement this mini-project using some AWS services.
 	CloudWatch will trigger the lambda funtion on a specific time every day, Lamda Funtion 
